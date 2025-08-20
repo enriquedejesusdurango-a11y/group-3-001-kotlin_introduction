@@ -1,0 +1,130 @@
+type: marketplace
+title: "Kotlin Onboarding: Introduction"
+language: English
+summary: "<p>This course is designed for novices in Kotlin and focuses on the basic\
+  \ concepts of the Kotlin language. Each lesson of the course is built in the form\
+  \ of a project: step by step, by completing different small tasks, you will get\
+  \ a finished small project in the end. At the end of each lesson, an additional\
+  \ similar project will be offered: it includes all the lesson topics but does not\
+  \ contain the theory part.</p>\n<p><i>Note, this course does not provide a detailed\
+  \ explanation of the basic concepts, like variables: it just shows how to use them\
+  \ in Kotlin and can briefly remind you the definitions.</i></p>\n<p>All topics will\
+  \ be accompanied by links to the official Kotlin documentation, which you can read\
+  \ later. After this course, you will be ready to write basic console applications\
+  \ in the Kotlin-like style.</p> "
+programming_language: Kotlin
+content:
+  - Introduction
+  - TheFirstDateWithProgramming
+  - Chat
+  - WarmUp
+  - MastermindAdvanced
+  - Hangman
+  - AlmostDone
+  - LastPush
+  - FeedbackSurvey
+additional_files:
+  - name: .idea/inspectionProfiles/profiles_settings.xml
+  - name: .idea/inspectionProfiles/Custom_Inspections.xml
+  - name: utils/src/main/kotlin/util/Util.kt
+  - name: utils/src/main/kotlin/util/Variable.kt
+  - name: utils/src/main/resources/images/part1/chat/game.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/chat/game.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/chat/game_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/warmup/game.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/warmup/game.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/warmup/game_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/warmup/safe_user_input.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/warmup/safe_user_input_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/hangman/game.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/hangman/game.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/hangman/game_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/last.push/app.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/last.push/game.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/last.push/app_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/first.date/game.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/first.date/game.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/first.date/game_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/first.date/user_input.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/first.date/entry_point.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/first.date/run_example.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/first.date/user_input_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/first.date/entry_point_dark.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/first.date/run_example_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/examples/borders/monkey.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/examples/borders/android.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/examples/borders/monkey_dark.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/examples/borders/android_dark.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/examples/squared/monkey.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/examples/squared/android.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/examples/squared/monkey_dark.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/examples/squared/android_dark.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/game.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/game.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/game_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/get_picture.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/when_hint_1.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/when_hint_2.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/choose_filter.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/choose_picture.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/trimmed_picture.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/get_picture_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/when_hint_1_dark.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/when_hint_2_dark.png
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/choose_filter_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/choose_picture_dark.gif
+    is_binary: true
+  - name: utils/src/main/resources/images/part1/almost.done/trimmed_picture_dark.gif
+    is_binary: true
+  - name: utils/build.gradle.kts
+  - name: LICENSE.md
+  - name: contributing.md
+  - name: build.gradle.kts
+  - name: settings.gradle.kts
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/21067-kotlin-onboarding-introduction/reviews
+yaml_version: 4

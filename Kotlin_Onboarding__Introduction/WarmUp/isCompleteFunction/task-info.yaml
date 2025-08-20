@@ -1,0 +1,23 @@
+type: edu
+custom_name: Mastermind - isComplete Function
+files:
+  - name: src/main/kotlin/jetbrains/kotlin/course/warmup/Main.kt
+    visible: true
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/warmup/Util.kt
+    visible: false
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+  - name: test/MainClass.kt
+    visible: false
+    learner_created: false
+  - name: test/Methods.kt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 19 Aug 2025 19:40:20 UTC"
+record: 22

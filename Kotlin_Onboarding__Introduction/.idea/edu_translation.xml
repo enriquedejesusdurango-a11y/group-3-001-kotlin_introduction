@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="structureTranslation">
+      <map>
+        <entry key="Spanish">
+          <value>
+            <map>
+              <entry key="1006365197" value="Mastermind - Funciones personalizadas  " />
+              <entry key="1019379491" value="Mastermind - Operadores compuestos en if  " />
+              <entry key="1021356481" value="Giro de historia - Completa el proyecto  " />
+              <entry key="1120394004" value="Patterns Generator - Finalizar la Aplicación  " />
+              <entry key="1152431309" value="Mastermind - Conceptos básicos sobre colecciones  " />
+              <entry key="1166766094" value="Ahorcado - Función isCorrectInput  " />
+              <entry key="1170272381" value="Mastermind - Función isComplete  " />
+              <entry key="1190201896" value="Mastermind - Tipos de variables  " />
+              <entry key="1229192821" value="Console Photoshop - Introducción  " />
+              <entry key="1229753076" value="Mastermind avanzado - Función random  " />
+              <entry key="1240099384" value="Patterns Generator - Función dropTopLine  " />
+              <entry key="1278662430" value="Mastermind - Finalizar el juego base  " />
+              <entry key="1284940740" value="Ahorcado - Función getRoundResults  " />
+              <entry key="1290076994" value="Mastermind avanzado - Función isCorrectInput  " />
+              <entry key="1298754091" value="Console Photoshop - Función lines  " />
+              <entry key="13109812" value="Mastermind - Finalizar la función isComplete  " />
+              <entry key="1368513525" value="Console Photoshop - Función getPicture  " />
+              <entry key="1412191977" value="Giro de historia - Primer programa en Kotlin  " />
+              <entry key="1412220528" value="Introducción  " />
+              <entry key="1441227087" value="Mastermind - Función Play Game  " />
+              <entry key="1444969308" value="Mastermind - Introducción  " />
+              <entry key="1477657219" value="Mastermind avanzado - Finalizar el juego  " />
+              <entry key="1479688163" value="Ahorcado - Función generateSecret  " />
+              <entry key="1495658846" value="Console Photoshop - Función repeat  " />
+              <entry key="1496648535" value="Mastermind - Función isWon  " />
+              <entry key="15384542" value="Patterns Generator - Función canvasGenerator  " />
+              <entry key="1584793307" value="Preparación  " />
+              <entry key="1609671976" value="Console Photoshop - Función let Scope  " />
+              <entry key="1629287997" value="Console Photoshop - Función error  " />
+              <entry key="1632845494" value="Mastermind avanzado - Manejo de errores  " />
+              <entry key="1642783440" value="Mastermind - Función printRoundResults  " />
+              <entry key="1651787790" value="Mastermind - Función countExactMatches  " />
+              <entry key="1676423900" value="Kotlin Onboarding - ¡Bienvenido!  " />
+              <entry key="168358096" value="Mastermind - Función isLost  " />
+              <entry key="1691431341" value="Mastermind - Operador condicional como expresión  " />
+              <entry key="1709046670" value="Último empuje  " />
+              <entry key="1725484953" value="Mastermind avanzado - Función joinToString  " />
+              <entry key="172830079" value="Giro de historia - Leer entrada de usuario, Práctica  " />
+              <entry key="1762576790" value="Giro de historia - Inicia el juego  " />
+              <entry key="1826732352" value="Mastermind avanzado - Función safeUserInput  " />
+              <entry key="1835776409" value="Console Photoshop - Implementación de applySquaredFilter  " />
+              <entry key="1840247486" value="Ahorcado - Finalizar el juego  " />
+              <entry key="1843240451" value="Giro de historia - Punto de entrada del programa  " />
+              <entry key="1847786086" value="Mastermind - Expresiones lambda  " />
+              <entry key="187571066" value="Mastermind - función TODO  " />
+              <entry key="192844197" value="Console Photoshop - Valor null  " />
+              <entry key="1948062985" value="Ahorcado - Función generateNewUserWord  " />
+              <entry key="1972483715" value="Mastermind - Expresión break  " />
+              <entry key="1988905602" value="Console Photoshop - Funciones de filtro  " />
+              <entry key="2030724675" value="Mastermind - Ejecutar el juego  " />
+              <entry key="2042704900" value="Console Photoshop - Función applyFilter  " />
+              <entry key="2065245492" value="Console Photoshop - Función safeReadLine  " />
+              <entry key="2085825446" value="Ahorcado - Función getHiddenSecret  " />
+              <entry key="2128193824" value="Ahorcado - Introducción  " />
+              <entry key="214162757" value="Giro de historia - Introducción  " />
+              <entry key="215738047" value="Mastermind - Función countPartialMatches  " />
+              <entry key="21668245" value="Mastermind - Agrega las primeras funciones personalizadas  " />
+              <entry key="223687468" value="Console Photoshop - StringBuilder  " />
+              <entry key="230726355" value="Console Photoshop - Seguridad ante Null (Null Safety)  " />
+              <entry key="316297317" value="Ahorcado - Función isComplete  " />
+              <entry key="378596203" value="Giro de historia - Leer entrada de usuario, Teoría  " />
+              <entry key="398217788" value="Giro de historia - Comentarios  " />
+              <entry key="410448577" value="Giro de historia - Variables, Práctica  " />
+              <entry key="42223778" value="Mastermind - Variable mutable  " />
+              <entry key="436171823" value="Mastermind - Variables para la configuración del juego  " />
+              <entry key="459293849" value="Patterns Generator - Función repeatHorizontally  " />
+              <entry key="468192544" value="Chat - Haz la primera pregunta  " />
+              <entry key="471158885" value="Ahorcado  " />
+              <entry key="512051311" value="Mastermind avanzado - Función generateSecret  " />
+              <entry key="540878076" value="Mastermind - Operadores booleanos  " />
+              <entry key="541942201" value="Mastermind Avanzado  " />
+              <entry key="553514186" value="Console Photoshop - Función choosePicture  " />
+              <entry key="553691845" value="Console Photoshop - Función chooseFilter  " />
+              <entry key="554684746" value="Mastermind - Bucles  " />
+              <entry key="563522277" value="Giro de historia - Funciones integradas  " />
+              <entry key="599627186" value="La primera cita con la programación  " />
+              <entry key="604688510" value="Giro de historia - Variables, Teoría  " />
+              <entry key="615480409" value="Encuesta  " />
+              <entry key="619115895" value="Chat - Introducción  " />
+              <entry key="669870424" value="Console Photoshop - Función trimPicture  " />
+              <entry key="68121813" value="Mastermind avanzado - Introducción  " />
+              <entry key="692295510" value="Chat - Haz la segunda pregunta  " />
+              <entry key="694346756" value="Patterns Generator - Función getPatternHeight  " />
+              <entry key="734671394" value="Chat  " />
+              <entry key="792095342" value="Patterns Generator - Introducción  " />
+              <entry key="815582437" value="Casi terminado  " />
+              <entry key="819355706" value="Console Photoshop - Finalizar la Aplicación  " />
+              <entry key="822630104" value="Encuesta de comentarios  " />
+              <entry key="85088674" value="Ahorcado - Función safeUserInput  " />
+              <entry key="857708508" value="Patterns Generator - Función fillPatternRow  " />
+              <entry key="912657372" value="Mastermind - Función countAllMatches  " />
+              <entry key="919228894" value="Patterns Generator - Función canvasWithGapsGenerator  " />
+              <entry key="949232906" value="Chat - Completa el proyecto  " />
+              <entry key="957199675" value="Console Photoshop - Expresión when  " />
+              <entry key="964908412" value="Mastermind - Funciones como expresiones  " />
+              <entry key="965912956" value="Console Photoshop - Cadenas de múltiples líneas  " />
+              <entry key="990585351" value="Mastermind - Operador condicional  " />
+              <entry key="999114955" value="Console Photoshop - Implementación de applyBordersFilter  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Spanish" value="473" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+type: edu
+custom_name: Chat - Complete The Project
+files:
+  - name: src/main/kotlin/jetbrains/kotlin/course/chat/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 19 Aug 2025 19:20:25 UTC"
+record: -1

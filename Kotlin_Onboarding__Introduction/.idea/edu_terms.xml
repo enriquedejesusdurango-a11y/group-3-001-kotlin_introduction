@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="13109812">
+                <value>
+                  <list>
+                    <Term value="short notation" definition="A concise way to write functions to return Boolean results, e.g., replacing `if-else` logic with direct comparisons." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="15384542">
+                <value>
+                  <list>
+                    <Term value="canvasGenerator" definition="A function in Kotlin that takes a pattern, width, and height as input arguments and generates a new string that produces a rectangular canvas picture based on specified dimensions." />
+                    <Term value="newLineSymbol" definition="A variable representing a newline character that is used for formatting output." />
+                    <Term value="getPatternWidth" definition="A function that accepts a pattern and calculates its width." />
+                    <Term value="repeatHorizontally" definition="A function used to repeat the pattern horizontally without changing the pattern itself." />
+                    <Term value="dropTopLine" definition="A function that removes the top line from the pattern if the pattern consists of more than one line." />
+                    <Term value="getPatternHeight" definition="A function that calculates the height of the input pattern." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="21668245">
+                <value>
+                  <list>
+                    <Term value="generateSecret" definition="A function in Kotlin that returns the hidden word, which can be represented as an expression in the form: `fun generateSecret() = &quot;ABCD&quot;`." />
+                    <Term value="countPartialMatches" definition="A function in Kotlin with two string arguments, `secret` and `guess`, which returns the number of matched letters between them that are not in the same positions." />
+                    <Term value="countExactMatches" definition="A function in Kotlin with two arguments, `secret` and `guess`, which returns the number of exact matched positions between them." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="42223778">
+                <value>
+                  <list>
+                    <Term value="var" definition="The 'var' keyword in Kotlin is used to declare a mutable variable whose value can be changed." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="68121813">
+                <value>
+                  <list>
+                    <Term value="List collection" definition="A built-in data structure in many programming languages, including Kotlin, that represents an ordered collection of elements and supports various operations." />
+                    <Term value="generating random strings" definition="A process in programming of creating strings composed of random characters, often used in applications like games or security." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="85088674">
+                <value>
+                  <list>
+                    <Term value="safeUserInput" definition="A function in Kotlin that accepts no arguments and returns an uppercase letter that was input by the user." />
+                    <Term value="isCorrectInput" definition="A function used to check the correctness of the user's input." />
+                    <Term value="safeReadLine" definition="A function in Kotlin already defined in the project to read a line of user input." />
+                    <Term value="uppercase" definition="A built-in Kotlin function that converts all letters of a string to uppercase format." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="192844197">
+                <value>
+                  <list>
+                    <Term value="null" definition="Null is a special reference that doesn't refer to anything and can be used to indicate that a value of a type can be absent." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="215738047">
+                <value>
+                  <list>
+                    <Term value="countPartialMatches" definition="A function that takes a secret and a guess, and returns the number of matched letters between them that are not in the same positions." />
+                    <Term value="countAllMatches" definition="A function that calculates the total count of all matches between two strings, regardless of position." />
+                    <Term value="countExactMatches" definition="A function that calculates the count of letters that match in both value and position between two strings." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="223687468">
+                <value>
+                  <list>
+                    <Term value="StringBuilder" definition="In Kotlin, StringBuilder is a mechanism that allows the construction of a long string from parts while avoiding the need to copy the whole string each time it is updated." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="230726355">
+                <value>
+                  <list>
+                    <Term value="nullable value" definition="In Kotlin, nullable values are variables that can hold a null value and require special handling to ensure the program works correctly." />
+                    <Term value="null safety" definition="Kotlin's null safety mechanism ensures that nullable values are handled separately to prevent runtime errors." />
+                    <Term value="Elvis operator" definition="In Kotlin, the Elvis operator (?:) provides a shorthand way to handle null values by specifying a default value or action if the value is null." />
+                    <Term value="smart casts mechanism" definition="Kotlin's smart casts mechanism can identify cases when a nullable value is always non-null, allowing direct access to properties or methods." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="316297317">
+                <value>
+                  <list>
+                    <Term value="isComplete function" definition="A function in Kotlin that determines if a game is complete by comparing a secret string with a current guess string, after removing spaces from the current guess." />
+                    <Term value="separator variable" definition="A predefined variable in the task that stores a space, which can be used to remove spaces from strings." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="378596203">
+                <value>
+                  <list>
+                    <Term value="readlnOrNull" definition="In Kotlin, the 'readlnOrNull' function reads values entered by the user from the console and stores them in a variable. It stops program execution until the user provides input." />
+                    <Term value="null safety" definition="In Kotlin, null safety ensures that variables cannot hold null values unless explicitly declared as nullable using a '?' symbol." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="436171823">
+                <value>
+                  <list>
+                    <Term value="getGameRules" definition="A custom function in Kotlin that returns the game rules using provided variable values." />
+                    <Term value="println" definition="A Kotlin function used to print any output to the console." />
+                    <Term value="newLineSymbol" definition="A predefined variable used to maintain proper line breaks across different operating systems." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="459293849">
+                <value>
+                  <list>
+                    <Term value="repeatHorizontally function" definition="A function in Kotlin that accepts a pattern, the number of repeats n, and patternWidth as parameters, and then repeats the pattern n times horizontally." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="468192544">
+                <value>
+                  <list>
+                    <Term value="println" definition="A function used to print output to the console in programming." />
+                    <Term value="readlnOrNull" definition="A function that reads a line of input from the user, returning null if no input is provided." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="512051311">
+                <value>
+                  <list>
+                    <Term value="generateSecret function" definition="In Kotlin, the `generateSecret` function generates a random secret word by taking `wordLength` and `alphabet` as parameters, creating a string with random letters from `alphabet` having the specified length." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="553514186">
+                <value>
+                  <list>
+                    <Term value="predefined pictures" definition="Predefined pictures are a set of images available beforehand in the programming task that can be accessed or modified through specific functions." />
+                    <Term value="predefined picture" definition="Predefined pictures are a set of images available beforehand in the programming task that can be accessed or modified through specific functions." />
+                    <Term value="allPictures" definition="The `allPictures` function in Kotlin returns a list of the predefined picture names available for selection and modification." />
+                    <Term value="getPictureByName" definition="The `getPictureByName` function in Kotlin retrieves a picture by its name if it exists among the predefined pictures, otherwise returns null." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="553691845">
+                <value>
+                  <list>
+                    <Term value="safeReadLine" definition="A function in Kotlin used to read user input safely; allows handling and validating input in educational tasks." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="563522277">
+                <value>
+                  <list>
+                    <Term value="println" definition="`println` is a built-in Kotlin function used to display the text passed as an argument in the console, followed by wrapping the text to a new line." />
+                    <Term value="print" definition="`print` is a built-in Kotlin function used to display the text passed as an argument in the console without wrapping the text to a new line." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="604688510">
+                <value>
+                  <list>
+                    <Term value="variable" definition="A variable is a kind of box that stores some value, having a name, a type, and a value." />
+                    <Term value="val" definition="In Kotlin, 'val' is a keyword used to declare a variable whose value cannot be changed after initialization." />
+                    <Term value="String" definition="In Kotlin, 'String' represents a sequence of characters." />
+                    <Term value="string" definition="In Kotlin, 'String' represents a sequence of characters." />
+                    <Term value="camel case" definition="Camel case is a naming convention where variable names start with a lowercase letter, and subsequent words start with a capital letter." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="694346756">
+                <value>
+                  <list>
+                    <Term value="getPatternHeight" definition="The getPatternHeight function calculates the height of a given pattern by counting the number of lines in the pattern." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="819355706">
+                <value>
+                  <list>
+                    <Term value="photoshop function" definition="A function in Kotlin used to combine all functions together, read the picture and the filter, and print both the original and transformed images." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="857708508">
+                <value>
+                  <list>
+                    <Term value="IllegalStateException" definition="An IllegalStateException is thrown in Kotlin to indicate that a method has been invoked at an illegal or inappropriate time." />
+                    <Term value="separator" definition="The separator variable is a predefined variable in Kotlin that stores a space character used for extending lines or patterns." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="919228894">
+                <value>
+                  <list>
+                    <Term value="dropLast" definition="A Kotlin function that removes a specified number of characters from the end of a string. For example, 'MyText'.dropLast(3) results in 'MyT'." />
+                    <Term value="drop" definition="A Kotlin function that removes a specified number of characters from the beginning of a string." />
+                    <Term value="canvasWithGapsGenerator" definition="A function in Kotlin that generates a canvas with gaps. It accepts a `pattern`, `width`, and `height`, and returns a string representing a canvas where the gaps alternate based on levels." />
+                    <Term value="repeatHorizontallyWithGaps" definition="A function that horizontally repeats a given pattern `n` times, ensuring consistent gaps between patterns." />
+                    <Term value="refactoring" definition="The process of improving the structure of code to make it clearer and more efficient without changing its functionality." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="965912956">
+                <value>
+                  <list>
+                    <Term value="multiline strings" definition="In Kotlin, multiline strings are strings enclosed in triple quotes, allowing you to write long strings conveniently over multiple lines." />
+                    <Term value="multiline string" definition="In Kotlin, multiline strings are strings enclosed in triple quotes, allowing you to write long strings conveniently over multiple lines." />
+                    <Term value="trimIndent" definition="In Kotlin, the `trimIndent` function detects the smallest common indentation of all lines in a string, removes it, and discards blank first and last lines." />
+                    <Term value="trimMargin" definition="In Kotlin, the `trimMargin` function trims leading whitespace characters followed by a specified `marginPrefix` from each line of a string and removes blank first and last lines." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="990585351">
+                <value>
+                  <list>
+                    <Term value="conditional operator" definition="The conditional operator, such as the 'if' expression, is used in programming to make decisions based on conditions. For example, it can perform an action if a condition is true or do nothing if the condition is false." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="999114955">
+                <value>
+                  <list>
+                    <Term value="borderSymbol" definition="A predefined variable that stores the symbol '#' used for creating borders in the applyBordersFilter function." />
+                    <Term value="separator" definition="A predefined variable that stores a space character, used to separate the picture and the border." />
+                    <Term value="getPictureWidth" definition="A predefined function that calculates and returns the maximum width of all lines in the picture." />
+                    <Term value="newLineSymbol" definition="A predefined variable that stores the symbol for creating new lines between picture lines." />
+                    <Term value="applyFilter" definition="An example function that applies filters (such as a borders filter) to predefined pictures like simba, monkey, and android." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1006365197">
+                <value>
+                  <list>
+                    <Term value="function" definition="In programming, a function is an independent unit of code that performs a specific action, such as printing something on the screen or evaluating the value of an expression." />
+                    <Term value="functions" definition="In programming, a function is an independent unit of code that performs a specific action, such as printing something on the screen or evaluating the value of an expression." />
+                    <Term value="Function" definition="In programming, a function is an independent unit of code that performs a specific action, such as printing something on the screen or evaluating the value of an expression." />
+                    <Term value="Function arguments" definition="Function arguments are variables available in the function's body, declared in parentheses in the format 'name: type', and may have default values." />
+                    <Term value="returned value" definition="The return value of a function is a value specified by the function's return type and returned using the 'return' keyword." />
+                    <Term value="return value" definition="The return value of a function is a value specified by the function's return type and returned using the 'return' keyword." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1021356481">
+                <value>
+                  <list>
+                    <Term value="predefined" definition="Predefined refers to variables or functions that are already instantiated and made available in a program, often by the project creator." />
+                    <Term value="Predefined" definition="Predefined refers to variables or functions that are already instantiated and made available in a program, often by the project creator." />
+                    <Term value="println" definition="In Kotlin, println is a function used to print text followed by a newline to the standard output." />
+                    <Term value="template expressions" definition="In Kotlin, template expressions are expressions within a string literal that start with a dollar sign, allowing code or variable values to be concatenated directly into the string." />
+                    <Term value="template expression" definition="In Kotlin, template expressions are expressions within a string literal that start with a dollar sign, allowing code or variable values to be concatenated directly into the string." />
+                    <Term value="readlnOrNull" definition="In Kotlin, readlnOrNull is a function that reads a line of input from the standard input and returns it as a nullable String." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1120394004">
+                <value>
+                  <list>
+                    <Term value="applyGenerator function" definition="A function in Kotlin which accepts pattern, generatorName, width, and height, trims the pattern, and applies either the canvasGenerator or canvasWithGapsGenerator function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1152431309">
+                <value>
+                  <list>
+                    <Term value="String" definition="A string is a sequence of characters, which can also be thought of as a list of letters." />
+                    <Term value="string" definition="A string is a sequence of characters, which can also be thought of as a list of letters." />
+                    <Term value="strings" definition="A string is a sequence of characters, which can also be thought of as a list of letters." />
+                    <Term value="List" definition="In Kotlin, a List is a collection that contains data of the same type and is ordered, where each element has a position starting at zero." />
+                    <Term value="list" definition="In Kotlin, a List is a collection that contains data of the same type and is ordered, where each element has a position starting at zero." />
+                    <Term value="index" definition="In Kotlin, the position of elements in a List or String starts with zero, which can be used to access elements using square brackets." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1166766094">
+                <value>
+                  <list>
+                    <Term value="isLetter" definition="A Kotlin built-in function that checks if a character is an English letter." />
+                    <Term value="length" definition="A property in Kotlin used to get the number of characters in a string." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1190201896">
+                <value>
+                  <list>
+                    <Term value="String" definition="The String type in programming stores sequences of characters, like 'ABCD'." />
+                    <Term value="strings" definition="The String type in programming stores sequences of characters, like 'ABCD'." />
+                    <Term value="Int" definition="The Int type in programming stores integer numbers, like 55." />
+                    <Term value="Boolean" definition="The Boolean type in programming can only have two values - true (yes) or false (no)." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1229192821">
+                <value>
+                  <list>
+                    <Term value="multi-row strings" definition="Multi-row strings refer to strings that span multiple lines, allowing for more readable and organized formatting in code." />
+                    <Term value="when expressions" definition="A when expression evaluates a condition and executes a block of code among different branches, serving as an alternative to multiple if-else statements." />
+                    <Term value="string builder" definition="A string builder is a utility that allows for more efficient modification and concatenation of strings by avoiding the creation of new string objects." />
+                    <Term value="null safety" definition="Null safety in programming ensures that variables cannot hold null values unless explicitly allowed, helping to prevent NullPointerException errors." />
+                    <Term value="!!" definition="The `!!` operator in Kotlin asserts that a nullable variable cannot be null and throws a NullPointerException if it is." />
+                    <Term value="?:" definition="The `?:` operator in Kotlin, also known as the Elvis operator, provides a default value if the expression to its left evaluates to null." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1229753076">
+                <value>
+                  <list>
+                    <Term value="lambda expression" definition="In Kotlin, a lambda expression is a short block of code that can take arguments and return a value, often used to define behavior in functions like List." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1240099384">
+                <value>
+                  <list>
+                    <Term value="dropTopLine function" definition="A function in Kotlin that removes the first line of the image if patternHeight &gt; 1. It takes parameters `image`, `width`, `patternHeight`, and `patternWidth`." />
+                    <Term value="removeSuffix" definition="A Kotlin built-in function that deletes a string from the end of the current string if it matches the suffix." />
+                    <Term value="drop" definition="A Kotlin built-in function that deletes the first n symbols from the beginning of the current string." />
+                    <Term value="dropped" definition="A Kotlin built-in function that deletes the first n symbols from the beginning of the current string." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1284940740">
+                <value>
+                  <list>
+                    <Term value="getRoundResults" definition="A Kotlin function that takes a secret string, a guessed character, and the current user word string, and checks if the guessed character is in the secret word, providing a feedback message accordingly." />
+                    <Term value="generateNewUserWord" definition="A function used to create a new version of the user's word reflecting correctly guessed characters in the current game round." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1290076994">
+                <value>
+                  <list>
+                    <Term value="filter" definition="In Kotlin, the filter function is used to filter elements of a collection or a sequence based on a given predicate. For example, you can use it to keep only the characters that meet certain criteria." />
+                    <Term value="isNotEmpty" definition="The isNotEmpty function in Kotlin checks if a string or collection is not empty. It returns true if the string or collection contains elements." />
+                    <Term value="length" definition="The length property in Kotlin is used to get the number of characters in a string." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1298754091">
+                <value>
+                  <list>
+                    <Term value="split" definition="The split function in Kotlin is used to split a string based on a specific delimiter, but it does not handle newline symbols from various operating systems effectively." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1368513525">
+                <value>
+                  <list>
+                    <Term value="getPicture" definition="A Kotlin function that allows the user to either choose a predefined picture or input a custom picture." />
+                    <Term value="safeReadLine" definition="A Kotlin function used to read user input safely." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1441227087">
+                <value>
+                  <list>
+                    <Term value="playGame function" definition="A function accepting `secret`, `wordLength`, and `maxAttemptsCount` that imitates the game process." />
+                    <Term value="safeReadLine" definition="A custom function in Kotlin used to safely read user input, provided by the course authors." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1444969308">
+                <value>
+                  <list>
+                    <Term value="loops" definition="A programming construct that allows repeated execution of a block of code as long as a specified condition is true." />
+                    <Term value="conditional statements" definition="Statements like `if`, `or`, and `and` that allow a program to make decisions based on certain conditions." />
+                    <Term value="List collection" definition="A data structure that stores a collection of elements, allowing manipulation through built-in functions and lambda expressions." />
+                    <Term value="lambda expressions" definition="Anonymous functions that can be defined inline and used in code with built-in collection functions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1477657219">
+                <value>
+                  <list>
+                    <Term value="safeReadLine" definition="A Kotlin function that reads a line of input safely, but needs to be replaced for customization in the game context." />
+                    <Term value="safeUserInput" definition="A Kotlin function that takes an `alphabet: String` argument to provide validated user input tailored to the game's requirements." />
+                    <Term value="playGame" definition="A Kotlin function that serves as the main gaming logic, which accepts parameters like `secret`, `wordLength`, `maxAttemptsCount`, and `alphabet` to customize the game." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1495658846">
+                <value>
+                  <list>
+                    <Term value="repeating" definition="In Kotlin, the `repeat` function generates a string by repeating a given symbol a specified number of times." />
+                    <Term value="repeat" definition="In Kotlin, the `repeat` function generates a string by repeating a given symbol a specified number of times." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1496648535">
+                <value>
+                  <list>
+                    <Term value="isWon" definition="In Kotlin, the isWon function checks if the user successfully guessed the word and spent not more than the maximum allowed attempts. It requires three arguments: 'complete', 'attempts', and 'maxAttemptsCount' to return a Boolean value." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1609671976">
+                <value>
+                  <list>
+                    <Term value="safe call operator" definition="In Kotlin, the safe call operator (`?.`) is used to perform null safety checks before accessing properties or calling methods on nullable variables." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1642783440">
+                <value>
+                  <list>
+                    <Term value="full matches" definition="&lt;fullMatches&gt; refers to the number of characters in the guess that exactly match the character and position of the corresponding character in the secret." />
+                    <Term value="partial matches" definition="&lt;partialMatches&gt; refers to the number of characters in the guess that exist in the secret but are not in the correct position." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1651787790">
+                <value>
+                  <list>
+                    <Term value="filterIndexed" definition="filterIndexed is a Kotlin built-in function that allows filtering elements of a collection based on their index and value." />
+                    <Term value="countExactMatches" definition="countExactMatches is a function that calculates the number of letters matching exactly in both position and value between two given strings." />
+                    <Term value="length" definition="In Kotlin, length is a property of String that returns the number of characters in the string." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1725484953">
+                <value>
+                  <list>
+                    <Term value="joinToString" definition="In Kotlin, the `joinToString` function is used to join a list of elements into a string, allowing the use of a custom separator." />
+                    <Term value="separator" definition="A separator in the `joinToString` function refers to a character or string used to separate the elements being joined." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1826732352">
+                <value>
+                  <list>
+                    <Term value="safeUserInput" definition="A function in Kotlin that ensures the user only enters inputs of the correct length and alphabet, defined by the parameters 'wordLength' and 'alphabet'." />
+                    <Term value="safeReadLine" definition="A function in Kotlin used to read the user's input." />
+                    <Term value="isCorrectInput" definition="A function in Kotlin used to validate whether the user's input meets specified requirements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1835776409">
+                <value>
+                  <list>
+                    <Term value="applySquaredFilter" definition="A function designed to create a square-shaped picture by padding shorter lines with a predefined separator and adding a border around the picture using a predefined border symbol." />
+                    <Term value="borderSymbol" definition="A predefined variable in the code storing the `#` symbol, used to create the border around the picture." />
+                    <Term value="separator" definition="A predefined variable in the code storing a space character, used to pad shorter lines of the picture to make it square." />
+                    <Term value="getPictureWidth" definition="A predefined function that calculates the maximum length of all lines in the given picture, which is essential to determine the required padding." />
+                    <Term value="newLineSymbol" definition="A predefined variable storing the symbol for creating a new line, used to separate lines in the newly generated picture." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1840247486">
+                <value>
+                  <list>
+                    <Term value="playGame" definition="`playGame` is a Kotlin function that implements the main game logic, taking a secret string and a maximum number of attempts as arguments." />
+                    <Term value="maxAttemptsCount" definition="`maxAttemptsCount` represents the maximum number of attempts the user has in the game." />
+                    <Term value="generateSecret" definition="`generateSecret` is a function that generates the secret word for the game." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1843240451">
+                <value>
+                  <list>
+                    <Term value="entry point" definition="A special section in every program that controls all subsequent operations. In Kotlin, this is the special `main` function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1847786086">
+                <value>
+                  <list>
+                    <Term value="Lambda expressions" definition="A lambda expression in Kotlin is a concise way to represent a function. It is defined with a special syntax and can specify actions to be performed on collection elements using built-in functions." />
+                    <Term value="lambda expressions" definition="A lambda expression in Kotlin is a concise way to represent a function. It is defined with a special syntax and can specify actions to be performed on collection elements using built-in functions." />
+                    <Term value="lambda expression" definition="A lambda expression in Kotlin is a concise way to represent a function. It is defined with a special syntax and can specify actions to be performed on collection elements using built-in functions." />
+                    <Term value="filter" definition="In Kotlin, the filter function is a collection function that applies a condition (defined in a lambda expression) to each element and keeps only the elements that satisfy the condition." />
+                    <Term value="it" definition="In Kotlin, 'it' is a built-in name for a single implicit argument in lambda expressions, commonly used when the lambda has only one argument." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1948062985">
+                <value>
+                  <list>
+                    <Term value="indices property" definition="In Kotlin, the indices property represents the range of valid indices for a given string or collection, allowing iteration over elements." />
+                    <Term value="removeSuffix function" definition="In Kotlin, the removeSuffix function helps to delete a specified suffix from the end of a string." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1988905602">
+                <value>
+                  <list>
+                    <Term value="applyBordersFilter" definition="A function in Kotlin that takes a single string argument 'picture' and returns a new picture string with the borders filter applied." />
+                    <Term value="applySquaredFilter" definition="A function in Kotlin that takes a single string argument 'picture' and returns a new picture string with the squared filter applied." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2030724675">
+                <value>
+                  <list>
+                    <Term value="generateSecret" definition="A function used to generate a secret value, typically used as an input argument for another function." />
+                    <Term value="playGame" definition="A function that executes the main logic of a game, requiring specific arguments like a secret value and additional parameters." />
+                    <Term value="getGameRules" definition="A function that retrieves and prints the rules of the game, accepting arguments like word length, number of attempts, and a secret example." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2042704900">
+                <value>
+                  <list>
+                    <Term value="applyFilter" definition="A Kotlin function that accepts a picture (String) and a filter name (String), applies the trimPicture function to the picture, applies the specified filter, and returns the updated picture." />
+                    <Term value="applyBordersFilter" definition="A function that adds a border to an image when used as a filter within the applyFilter function." />
+                    <Term value="applySquaredFilter" definition="A function that replicates an image 4 times when used as a filter within the applyFilter function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2065245492">
+                <value>
+                  <list>
+                    <Term value="safeReadLine" definition="A function that processes the user's input and returns the string input by the user or throws an error if a null value was received." />
+                    <Term value="readlnOrNull" definition="A built-in function in Kotlin that returns a nullable value (String?)." />
+                    <Term value="Elvis operator" definition="An operator in Kotlin used to handle nullable data, returning the left operand if it is not null, or the right operand if the left is null." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2085825446">
+                <value>
+                  <list>
+                    <Term value="joinToString" definition="A function in Kotlin that joins a list of elements into a string, allowing customization of the separator that separates the elements." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="36" />
+      </map>
+    </termsVersions>
+  </component>
+</project>
